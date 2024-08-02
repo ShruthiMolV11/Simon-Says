@@ -1,0 +1,1 @@
+"Simon Says" is a classic memory game where players follow a sequence of commands given by the gameand the player has to repeat them back in the same order. Players must remember and execute each command accurately to stay in the game and advance to higher levels.
